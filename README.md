@@ -38,7 +38,8 @@ My work There is to add features on an application that manages different kind o
 
 <br />
 <br />
-<br />
+
+---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
