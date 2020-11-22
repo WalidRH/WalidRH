@@ -48,6 +48,8 @@ My work There is to add features on an application that manages different kind o
 
 </details>
 
+[![Anurag's github stats](https://github-readme-stats-two-topaz.vercel.app/api?username=WalidRH&show_icons=true&hide_border=true&hide=stars,prs&count_private=true)](https://github.com/WalidRH/WalidRH)
+
 
 [instagram]: https://www.instagram.com/codinthings/
 [linkedin]: https://www.linkedin.com/in/walid-rahou-2a3785143/
