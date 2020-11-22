@@ -14,7 +14,7 @@ My work There is to add features on an application that manages different kind o
 [<img align="left" alt="WalidRH | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="WalidRH | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="WalidRH | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/dev-dot-to.svg" />][devTo]
-[<img align="left" alt="WalidRH | Instagram" width="22px" src="https://github.com/WalidRH" />][GitHub]
+[<img align="left" alt="WalidRH | Instagram" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][GitHub]
 
 <br />
 
