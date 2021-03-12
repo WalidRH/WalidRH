@@ -1,12 +1,12 @@
 ### Hi there 👋,
 I'm Walid - aka [WalidRH]. I'm a Full Stack Web developer, I'm actually working in OBS ( Orange Business Service ); which is a global integrator of communications products and services for multinational corporations, It offers integrated communications products and services to global enterprises in cloud computing, unified communications, collaboration, Big Data, Internet of things and Artificial Intelligence; which manage and integrate the complexity of international communications and software applications.
 
-My work There is to add features on an application that manages different kind of network orders (VPN, IP, VOICE ....) .
+My work There is to add features on an application that manages different kind of network orders (VPN, IP, VOICE, Business Ethernet ....) .
 
-## I'm a just a normal Dude trying things 😋
+## I'm a just a normal Dude trying things 😁
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning everything 😋
+- 👯 I’m looking to collaborate with other content creators and software developers 💻🖥
 - 🥅 My 2021 Goal: Contribute more to Open Source projects
 
 ### Connect with me:
