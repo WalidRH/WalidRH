@@ -5,8 +5,8 @@ My work There is to add features on an application that manages different kind o
 
 ## I'm a just a normal Dude trying things 😁
 
-- 🌱 I’m currently learning everything 😋
-- 👯 I’m looking to collaborate with other content creators and software developers 💻🖥
+- 💡 I’m currently learning everything 😋
+- 💻 I’m looking to collaborate with other content creators and software developers 
 - 🥅 My 2021 Goal: Contribute more to Open Source projects
 
 ### Connect with me:
