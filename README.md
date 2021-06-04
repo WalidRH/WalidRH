@@ -1,7 +1,5 @@
 ### Hi there 👋,
-I'm Walid - aka [WalidRH]. I'm a Full Stack Web developer, I'm actually working in OBS ( Orange Business Service ); which is a global integrator of communications products and services for multinational corporations, It offers integrated communications products and services to global enterprises in cloud computing, unified communications, collaboration, Big Data, Internet of things and Artificial Intelligence; which manage and integrate the complexity of international communications and software applications.
-
-My work There is to add features on an application that manages different kind of network orders (VPN, IP, VOICE, Business Ethernet ....) .
+I'm Walid - aka [WalidRH]. I'm a Full Stack Web developer, I'm actually working in OBS ( Orange Business Service ); My work There is to add features on an application that manages different kind of network orders (VPN, IP, VOICE, Business Ethernet ....) .
 
 ## I'm a just a normal Dude trying things 😁
 
@@ -21,7 +19,7 @@ My work There is to add features on an application that manages different kind o
 
 ### Languages and Tools:
 
-[<img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/128px-IntelliJ_IDEA_Logo.svg.png" />][GitHub]
+[<img align="left" alt="Terminal" width="26px" src="https://banner2.cleanpng.com/20180624/buv/kisspng-computer-terminal-linux-console-computer-icons-com-5b30203daa2f97.6230929715298806376971.jpg" />][GitHub]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][GitHub]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][GitHub]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/spring/spring.png" />][GitHub]
