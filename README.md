@@ -1,5 +1,5 @@
 ### Hi there 👋,
-I'm Walid - aka [WalidRH]. I'm a Full Stack Web developer, I'm actually working in OBS ( Orange Business Service ); My work There is to add features on an application that manages different kind of network orders (VPN, IP, VOICE, Business Ethernet ....) .
+I'm Walid - aka [WalidRH]. I'm a Full Stack Web developer.
 
 ## I'm a just a normal Dude trying things 😁
 
