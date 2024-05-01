@@ -4,20 +4,6 @@
   </a>
 </h1>
 
-## I'm a just a normal Dude trying things 😁
-
-- 💡 I’m currently learning everything 😋
-- 💻 I’m looking to collaborate with other content creators and software developers 
-- 🥅 My 2021 Goal: Contribute more to Open Source projects
-
-### Connect with me:
-
-[<img align="left" alt="WalidRH | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="WalidRH | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="WalidRH | devTo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/dev-dot-to.svg" />][devTo]
-[<img align="left" alt="WalidRH | GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][GitHub]
-[<img align="left" alt="WalidRH | CodePen" width="22px" src="https://avatars3.githubusercontent.com/u/1545643?s=200&v=4" />][CodePen]
-
 <br />
 
 ### Languages and Tools:
